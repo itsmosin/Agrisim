@@ -1,7 +1,7 @@
 # AgriSim
 
 ## What is AgriSim?
-An AI-driven android app that helps farmers in yield optimization and crop diversification.
+An AI-driven android app created during the Sachacks 2024 that helps farmers in yield optimization and crop diversification.
 
 ## Tech Stack used
 - Flutter: Android App Development
